@@ -100,18 +100,19 @@ Asana, Jira, Slack, GSuite, Workday
       </ul>
     </aside>
     <section class="res-highlights">
-  
-- Promoted to Lead Engineer from Senior Software Engineer in Apr 2022.
+    
+  - Promoted to Lead Engineer from Senior Software Engineer in Apr 2022.
 
-- Designed and developed all front-end programming and design for ArcaMax and its 400+ newsletters over 10+ years.
+  - Designed and developed all front-end programming and design for ArcaMax and its 400+ newsletters over 10+ years.
 
-- Co-developed a custom front-end framework based on the C++/V8 JavaScript engine, featuring block inheritance and server-side scripting.
+  - Co-developed a custom front-end framework based on the C++/V8 JavaScript engine, featuring block inheritance and server-side scripting.
 
-- Created COBRA ([getcobra.io](https://getcobra.io)), a self-service platform for co-branded newsletter marketing that provides lead acquisition tools, campaign management, and reporting.
+  - Created COBRA ([getcobra.io](https://getcobra.io)), a self-service platform for co-branded newsletter marketing that provides lead acquisition tools, campaign management, and reporting.
 
-- Designed, developed, and maintained ArcaMax's website and newsletters. Contributed to automation scripts, bulk email job administration, and database management. Migrated source code from Subversion to AWS CodeCommit and then to GitHub. Established container-based development environments using Docker.
+  - Designed, developed, and maintained ArcaMax's website and newsletters. Contributed to automation scripts, bulk email job administration, and database management. Migrated source code from Subversion to AWS CodeCommit and then to GitHub. Established container-based development environments using Docker.
 
-- Developed bookdaily.com (now defunct), a book sample website featuring author tools and newsletters. Integrated a custom AngularJS Help Desk system for customer management.
+  - Developed bookdaily.com (now defunct), a book sample website featuring author tools and newsletters. Integrated a custom AngularJS Help Desk system for customer management.
+
 
     </section>
   </article>
@@ -130,13 +131,14 @@ Asana, Jira, Slack, GSuite, Workday
     </aside>
     <section class="res-highlights">
 
-- Developed and maintained websites and applications primarily in LAMP environments for clients including DollarTree Direct, Towne Bank, and Beach Ford, and over 100 more.
+  - Developed and maintained websites and applications primarily in LAMP environments for clients including DollarTree Direct, Towne Bank, and Beach Ford, and over 100 more.
 
-- Mentored junior developers, wrote design documents, and created time estimates.
+  - Mentored junior developers, wrote design documents, and created time estimates.
 
-- Provided technical expertise in web design practices and standards.
+  - Provided technical expertise in web design practices and standards.
 
-- Designed a Java Swing UI for software managing a robotic CD burner and printer for the US Navy’s Second Fleet, enabling secure file transfers.
+  - Designed a Java Swing UI for software managing a robotic CD burner and printer for the US Navy’s Second Fleet, enabling secure file transfers.
+
 
     </section>
   </article>
