@@ -36,17 +36,17 @@ disableAnchoredHeadings: true
 <div class="res-skills">
 
 - **Languages** 
-HTML, JavaScript, CSS (Less/SCSS), C++, Go, PHP, Python, SQL, Shell-Scripting
+HTML, JavaScript, CSS, C++, Go, PHP, Python, SQL, Shell-Scripting
 - **Data Storage/Cache** 
 Postgres, MySQL, MongoDB, Redis
 - **Frameworks/Full Stack**
 Node.js, Angular, Vue, React, Flask, Gin, Temporal.io, Hugo, Htmgo, OpenAI, HTMX*
+- **Systems Architecture** 
+OpenAPI, XML/Soap, REST, gRPC, XHR, Curl
 - **Server Admin/DevOps** 
 Apache, NGINX, Docker, Git, SSH, AWS (EC2, ECR, S3, Cloudfront, Route53)
 - **Operating Systems** 
 MacOS, Linux (Ubuntu, Debian, CentOS)
-- **Solutions Architecture** 
-OpenAPI, XML/Soap, REST, gRPC, XHR, Curl
 - **Project Management** 
 Asana, Jira, Slack, GSuite, Workday
 
@@ -71,15 +71,18 @@ Asana, Jira, Slack, GSuite, Workday
     </aside>
     <section class="res-highlights">
 
-  - Managed group of remote developers across the globe, providing technical knowledge and mentoring, code reviews and development operations. Leading daily agile standups and sprints, product planning and implementation. Communicating with stakeholders, partners and other senior level peers, contributing to solutions architecture.
- 
-  - Prototyped and co-developed various internal project microservices including-*but not limited to*-- a prototype AI chatbot with agentic and generative capabilities, a gRPC based rules engine, new content management system supporting multi-tenancy, automated feed processing, workflows, event tracking, websites, newsletters, and various user acquisition tools.
- 
-  - Developed full stack of [triviastreaks.com](https://www.triviastreaks.com) website and newsletters. Created initial designs and project structure; including front and back-end implementation, development processes, acquisition tools and content automation. Assisted with process planning to manage content creation and continuous deployment, campaign scheduling and ongoing marketing efforts.
-  <small>(Vue, C++/V8, Postgres, AWS, S3, Cloudfront, GSuite GTM/GA4)</small>
-  
-  - Continued technical support and operations of ArcaMax systems during acquisition.
-  - Promoted to Director of Engineering from Lead Engineer - Apr 2022.
+-  Managed a team of remote developers globally, providing technical mentorship, code reviews, and overseeing development operations.
+
+- Led daily Agile standups, sprints, product planning, and implementation. Communicated with stakeholders and senior-level peers to contribute to solutions architecture.
+
+- Prototyped and co-developed internal microservices, including an AI chatbot with agentic and generative capabilities, a gRPC-based rules engine, a multi-tenant content management system, automated feed processing, event tracking, and user acquisition tools.
+
+- Developed the full stack for [triviastreaks.com](https://www.triviastreaks.com), including front-end and back-end implementation, acquisition tools, and content automation. Managed processes for content creation, campaign scheduling, and continuous deployment. (Vue, C++/V8, Postgres, AWS, S3, Cloudfront, GSuite GTM/GA4).
+
+- Continued technical support and operations for ArcaMax systems during acquisition.
+
+- Promoted to Director of Engineering from Lead Engineer in Apr 2022.
+
 
     </section>
   </article>
@@ -97,21 +100,18 @@ Asana, Jira, Slack, GSuite, Workday
       </ul>
     </aside>
     <section class="res-highlights">
-
-  - ArcaMax acquisition by Zeta Global - Apr 2022.
   
-  - Promoted to Lead Engineer from Senior Software Engineer - Apr 2022.
-  
-  - Developed *all** front end programming, design for ArcaMax and its 400+ newsletters and features over 10+ years. 
-   
-  - Co-developed custom front end framework based on C++/V8 JavaScript engine. The template engine supports block-inheritance and server-side scripting in JavaScript coupled with custom C++ embedded functions.
+- Promoted to Lead Engineer from Senior Software Engineer in Apr 2022.
 
-  - Developed COBRA [getcobra.io](https://getcobra.io) a self-service platform for Co-Branded Newsletter campaign marketing that allows partners to build their audiences and garner a revenue share of the marketing profits (advertising). Provides lead acquisition tools including subscription widgets, campaign tools and reporting.
-    
-  - [arcamax.com](arcamax.com) - Designed, developed and maintained the website, newsletter and all front end related projects since circa 2004. With my primary role as Web Developer/Designer, I ended up taking on numerous roles across the years. Developing content automation and feed processing scripts, bulk email job administration, Google/Facebook integrations, desktop publishing, database administration, etc. Contributed to operating and system-level upgrades for source code (C++/V8 - Ubuntu LTS versions). Lead migration from Subversion to AWS CodeCommit, finally to GitHub. Created container based environment for development (Docker files, compose, ECR). TLDR; ninja status
+- Designed and developed all front-end programming and design for ArcaMax and its 400+ newsletters over 10+ years.
 
-  - bookdaily.com - a (defunct) book samples website that provided sample chapters of online book publications from Amazon, Barnes and Noble. The website allowed book authors to claim their works in addition to other marketing resources. Developed and integrated a custom Help Desk system in Angular JS for customer management. There were topic based newsletters that supported the website traffic through user acquisition. Built all the front end website and newsletter templates as well as some marketing publication designs and banners used in conferences. 
+- Co-developed a custom front-end framework based on the C++/V8 JavaScript engine, featuring block inheritance and server-side scripting.
 
+- Created COBRA ([getcobra.io](https://getcobra.io)), a self-service platform for co-branded newsletter marketing that provides lead acquisition tools, campaign management, and reporting.
+
+- Designed, developed, and maintained ArcaMax's website and newsletters. Contributed to automation scripts, bulk email job administration, and database management. Migrated source code from Subversion to AWS CodeCommit and then to GitHub. Established container-based development environments using Docker.
+
+- Developed bookdaily.com (now defunct), a book sample website featuring author tools and newsletters. Integrated a custom AngularJS Help Desk system for customer management.
 
     </section>
   </article>
@@ -130,10 +130,13 @@ Asana, Jira, Slack, GSuite, Workday
     </aside>
     <section class="res-highlights">
 
-- Developed and maintained numerous websites and applications mostly in LAMP enviroments. (Linux/Apache/MySQL/PHP). Organizations including: DollarTree Direct, Towne Bank, Beach Ford and over 100 more.
-- Mentored junior developers, wrote design documents and time estimates. 
-- Provided technical expertise on web design practices, standards.
-- Built UI in Java Swing for software to control a robotic CD burner and printer for the US Navy’s Second Fleet, enabling them to securely move files out of their office
+- Developed and maintained websites and applications primarily in LAMP environments for clients including DollarTree Direct, Towne Bank, and Beach Ford, and over 100 more.
+
+- Mentored junior developers, wrote design documents, and created time estimates.
+
+- Provided technical expertise in web design practices and standards.
+
+- Designed a Java Swing UI for software managing a robotic CD burner and printer for the US Navy’s Second Fleet, enabling secure file transfers.
 
     </section>
   </article>

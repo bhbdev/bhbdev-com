@@ -220,6 +220,7 @@
     padding: 0 0 1rem 0;
     border-bottom: 1px solid #ccc;
     .res-job {
+        padding: 0 0 1rem 0;
         h3 {
             font-size: 1.25rem;
             margin: 0;
