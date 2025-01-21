@@ -1,0 +1,139 @@
+/** resume print styles **/
+
+@media print {
+    body {
+        font-size: 12px;
+        line-height: 1.5;
+        color: #000;
+        background: #fff;
+        margin: 0;
+        padding: 0;
+        -webkit-print-color-adjust: exact;
+    }
+    /* Hide the header and footer */
+    .header, .footer
+    {
+        display: none;
+    }
+    .print {
+        display: none !important;
+    }
+    .main {
+        max-width: 100%;
+        padding: .25rem;
+        box-sizing: border-box;
+    }
+    .post-content h1 {
+        font-size: 1.75rem;
+        margin: 0;
+        font-weight: 700;
+    }
+    .lfocus {
+        display: none;
+    }
+    .entry-cover {
+        max-height: 100px;
+        img {
+            border-radius: 0;
+        }
+        .entry-cover-meta {
+            padding: .5rem;
+            h1 {
+                font-size: 1.5rem;
+            }
+        }
+    }
+    .headshot-mini  {
+        display: none;
+    }
+    .res-meta {
+        background: none;
+        padding: .5rem 0;
+        xwidth: 100%;
+        ul {
+            padding: 0;
+            margin: 0;
+            display: flex;
+            justify-content: center;
+            @media (max-width: 768px) {
+                flex-direction: row;
+                align-items: center;
+            }
+        }
+        li {
+            font-size: .8rem;
+            font-weight: 500;
+            flex-grow: 1;
+            text-align: center;
+            &:first-child {
+                text-align: left;
+            }
+            &:last-child {
+                text-align: right;
+            }
+            
+        }
+    }
+    .post-header {
+        margin: 0;
+    }
+    .post-content h3 {
+        font-size: 1.15rem;
+        margin: .5rem 0;
+        padding: 1rem 0 0;
+        font-weight: 700;
+        border-top: 1px solid #000;
+    }
+    .res-skills {
+        border-bottom: 0;
+        
+        ul {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+        li {
+            list-style: none;
+            display: flex;
+            font-size: .8rem;
+            padding: .25rem 0;
+            margin: 0;
+            align-items: baseline;
+            strong {
+                display:flex-column;
+                width: 200px;
+                font-size: .8rem;
+                font-weight: 700;
+                color:#000;   
+            }
+        }
+    }
+    .res-experience {
+        .res-job {
+            page-break-inside: avoid;
+            header h3 {
+                border: 0;
+                margin: 1rem 0 0;
+                padding: 0;
+                font-size: 1rem;
+            }
+            h1 {
+                font-size: 1.5rem;
+                margin: 0;
+                font-weight: 700;
+            }
+            li {
+                &.tenure, &.role, &.website, &.location {
+                    font-size: .8rem;
+                }
+            }
+            
+            .res-highlights {
+                font-size: .8rem;
+                li {
+                    margin: .75rem 0;
+                }
+            }
+        }
+    }
+}

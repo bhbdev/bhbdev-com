@@ -1,0 +1,115 @@
+author: Beau Bishop
+baseURL: https://bhbdev.com/
+languageCode: en-us
+title: Beau Bishop
+copyright: "© [Beau Bishop](https://github.com/bhbdev)"
+
+#uglyURLs: true
+theme: ["PaperMod"]
+# disableThemeToggle: true
+ShowShareButtons: true
+ShowReadingTime: true
+# disableSpecial1stPost: true
+displayFullLangName: true
+ShowPostNavLinks: true
+ShowBreadCrumbs: true
+ShowCodeCopyButtons: true
+ShowRssButtonInSectionTermList: true
+ShowAllPagesInArchive: true
+ShowPageNums: true
+ShowToc: true
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+pygmentsUseClasses: true
+mainsections: ["posts", "projects"]
+
+minify:
+  disableXML: true
+  # minifyOutput: true
+
+languages:
+  en:
+    languageName: "English"
+    weight: 1
+    taxonomies:
+      category: categories
+      tag: tags
+      series: series
+    menu:
+      main:
+        - name: Posts
+          url: posts/
+          weight: 5
+        - name: Projects
+          url: projects/
+          weight: 10
+        - name: Resume
+          url: resume/
+          weight: 10
+        - name: About
+          url: about/
+
+params:
+  profileMode:
+    enabled: true
+    title: "Beau Bishop" # optional default will be site title
+    subtitle: "Professional Web Developer 🌟 since 2002" # optional
+    imageUrl: "images/headshot.jpg" # optional
+    imageTitle: "hey, wyd?" # optional
+    imageWidth: 240 # custom size
+    imageHeight: 240 # custom size
+    # buttons:
+    #   - name: Archive
+    #     url: "/archive"
+    #   - name: Github
+    #     url: "https://github.com/bhbdev"
+
+  socialIcons: # optional
+    - name: "github"
+      url: "https://github.com/bhbdev"
+    - name: "linkedin"
+      url: "https://linkedin.com/in/bhbdev"
+    - name: "email"
+      url: "mailto:bhbdev@gmail.com"
+
+  analytics:
+    google:
+      SiteVerificationTag: "G-1LB50GNRW5"
+
+  images: ["images/headshot.jpg"]
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    noClasses: false
+    # anchorLineNos: true
+    # codeFences: true
+    # guessSyntax: true
+    # lineNos: true
+    # style: monokai
+
+
+deployment:
+  targets:
+    - name: "production"
+      URL: "s3://bhbdev-com?region=us-east-1"
+      stripIndexHTML: true
+      invalidateOnDeploy: true
+  matchers:
+    - pattern: "^.+\\.(js|css|svg|ttf)$"
+      cacheControl: "max-age=31536000, no-transform, public"
+      gzip: true
+    - pattern: "^.+\\.(png|jpg|mov)$"
+      cacheControl: "max-age=31536000, no-transform, public"
+      gzip: false
+    - pattern: "^sitemap\\.xml$"
+      contentType: "application/xml"
+      gzip: true
+    - pattern: "^.+\\.(html|xml|json)$"
+      gzip: true
