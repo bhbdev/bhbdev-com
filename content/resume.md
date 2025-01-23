@@ -77,7 +77,7 @@ Asana, Jira, Slack, GSuite, Workday
 
 - Prototyped and co-developed internal microservices, including an AI chatbot with agentic and generative capabilities, a gRPC-based rules engine, a multi-tenant content management system, automated feed processing, event tracking, and user acquisition tools.
 
-- Developed the full stack for [triviastreaks.com](https://www.triviastreaks.com), including front-end and back-end implementation, acquisition tools, and content automation. Managed processes for content creation, campaign scheduling, and continuous deployment. (Vue, C++/V8, Postgres, AWS, S3, Cloudfront, GSuite GTM/GA4).
+- Developed the full stack for [triviastreaks.com](https://www.triviastreaks.com), including front-end and back-end implementation, acquisition tools, and content automation. Managed processes for content creation, campaign scheduling, and continuous deployment.
 
 - Continued technical support and operations for ArcaMax systems during acquisition.
 
@@ -107,9 +107,11 @@ Asana, Jira, Slack, GSuite, Workday
 
   - Co-developed a custom front-end framework based on the C++/V8 JavaScript engine, featuring block inheritance and server-side scripting.
 
-  - Created COBRA ([getcobra.io](https://getcobra.io)), a self-service platform for co-branded newsletter marketing that provides lead acquisition tools, campaign management, and reporting.
+  - Developed COBRA ([getcobra.io](https://getcobra.io)), a self-service platform for co-branded newsletter marketing that provides lead acquisition tools, campaign management, and reporting.
 
-  - Designed, developed, and maintained ArcaMax's website and newsletters. Contributed to automation scripts, bulk email job administration, and database management. Migrated source code from Subversion to AWS CodeCommit and then to GitHub. Established container-based development environments using Docker.
+  - Designed, developed, and maintained ArcaMax's website and 400+ newsletters. Contributed to automation scripts, bulk email job administration, and database management. Migrated source code from Subversion to AWS CodeCommit and then to GitHub. Established container-based development environments using Docker.
+  
+  - Created iOS app "The Funnies" integrated with companies comic publications.
 
   - Developed bookdaily.com, a book sample website featuring author tools and newsletters. Integrated a custom AngularJS Help Desk system for customer management.
   
@@ -140,6 +142,30 @@ Asana, Jira, Slack, GSuite, Workday
   - Provided technical expertise in web design practices and standards.
 
   - Designed a Java Swing UI for software managing a robotic CD burner and printer for the US Navy’s Second Fleet, enabling secure file transfers.
+
+
+    </section>
+  </article>
+
+  <article class="res-job">
+    <header>
+      <h3>Decipher, Inc.</h3>
+    </header>
+    <aside class="res-meta">
+      <ul>
+      <li class="tenure">Jan 2005 - Dec 2006</li>
+      <li class="role">Web Developer/Designer</li>
+      <li class="website"><a href="https://www.decipher.com">decipher.com</a></li>
+      <li class="location">Norfolk, VA</li>
+      </ul>
+    </aside>
+    <section class="res-highlights">
+
+  - Implemented various pixel-perfect web sites and designs with HTML,CSS,Javascript, Web Objects.
+
+  - Developed thankyougeorge.com; a tribute site to George Lucas.
+
+  - Prototyped a secure application using Java + Swing UI for a project in coupon industry.
 
 
     </section>
