@@ -36,14 +36,14 @@ disableAnchoredHeadings: true
 <div class="res-skills">
 
 - **Languages** 
-HTML, JavaScript, CSS, C++, Go, PHP, Python, SQL, Shell-Scripting
-- **Data Storage/Cache** 
-Postgres, MySQL, MongoDB, Redis
-- **Frameworks/Full Stack**
-Node.js, Angular, Vue, React, Flask, Gin, Temporal.io, Hugo, Htmgo, OpenAI, HTMX*
-- **Systems Architecture** 
-OpenAPI, XML/Soap, REST, gRPC, XHR, Curl
-- **Server Admin/DevOps** 
+JavaScript, HTML, CSS, C++, Go, Python, SQL, Shell-Scripting
+- **Data Storage** 
+Postgres, MySQL, Redis, MongoDB
+- **Frameworks**
+Google V8, Node.js, Angular, Vue, React, Flask, Hugo, Htmgo, HTMX*
+- **Dev Architecture** 
+OpenAPI, XML/Soap, REST, gRPC, Temporal, Protobuf
+- **Software/DevOps** 
 Apache, NGINX, Docker, Git, SSH, AWS (EC2, ECR, S3, Cloudfront, Route53)
 - **Operating Systems** 
 MacOS, Linux (Ubuntu, Debian, CentOS)
@@ -73,16 +73,11 @@ Asana, Jira, Slack, GSuite, Workday
 
 -  Managed a team of remote developers globally, providing technical mentorship, code reviews, and overseeing development operations.
 
-- Led daily Agile standups, sprints, product planning, and implementation. Communicated with stakeholders and senior-level peers to contribute to solutions architecture.
+- Prototyped and co-developed internal microservices, including an AI chat with generative capabilities, a gRPC-based rules engine, a multi-tenant content management system, automated feed processing, event tracking, and user acquisition tools.
 
-- Prototyped and co-developed internal microservices, including an AI chatbot with agentic and generative capabilities, a gRPC-based rules engine, a multi-tenant content management system, automated feed processing, event tracking, and user acquisition tools.
-
-- Developed the full stack for [triviastreaks.com](https://www.triviastreaks.com), including front-end and back-end implementation, acquisition tools, and content automation. Managed processes for content creation, campaign scheduling, and continuous deployment.
-
-- Continued technical support and operations for ArcaMax systems during acquisition.
+- Developed [triviastreaks.com](https://www.triviastreaks.com) full stack, including acquisition tools, and content automation. Managed processes for content creation, campaign scheduling, and continuous deployment. Increased customer subscriptions and web traffic (100k+ pageviews) within a month of launch. 
 
 - Promoted to Director of Engineering from Lead Engineer in Apr 2022.
-
 
     </section>
   </article>
@@ -100,22 +95,20 @@ Asana, Jira, Slack, GSuite, Workday
       </ul>
     </aside>
     <section class="res-highlights">
-    
-  - Promoted to Lead Engineer from Senior Software Engineer in Apr 2022.
 
-  - Designed and developed all front-end programming and design for ArcaMax and its 400+ newsletters over 10+ years.
+  - Designed, developed, and maintained ArcaMax's website and 400+ newsletters. <small>*(2M+ subscribers, 6M+ pageviews per month)*</small>
+  
+  - Co-developed a custom front-end framework based on C++ and embedded Google V8 JavaScript engine, featuring template block inheritance and server-side scripting.
 
-  - Co-developed a custom front-end framework based on the C++/V8 JavaScript engine, featuring block inheritance and server-side scripting.
+  - Contributed to automation, bulk email campaigns, all company developments. Managed source code migrations from Subversion, AWS CodeCommit, onto GitHub. Established container-based environments using Docker and ECR for local development.
 
   - Developed COBRA ([getcobra.io](https://getcobra.io)), a self-service platform for co-branded newsletter marketing that provides lead acquisition tools, campaign management, and reporting.
-
-  - Designed, developed, and maintained ArcaMax's website and 400+ newsletters. Contributed to automation scripts, bulk email job administration, and database management. Migrated source code from Subversion to AWS CodeCommit and then to GitHub. Established container-based development environments using Docker.
   
-  - Created iOS app "The Funnies" integrated with companies comic publications.
+  - Created an iOS app "The Funnies" integrated with companies comic publications.
 
-  - Developed bookdaily.com, a book sample website featuring author tools and newsletters. Integrated a custom AngularJS Help Desk system for customer management.
+  - Developed a book sample website featuring author tools and newsletters (bookdaily.com). Integrated a Help Desk system for customer management built in AngularJS.
   
-  - Worked with company in 2003-2005 as Web Designer prior to it splitting from online e-commerce into a publishing company. Built the first website, newsletters and co-registration paths, and company design materials.
+  - Worked for company in 2003-2005 as Web Designer in both the online e-commerce and publishing company divisions. Built the first website, newsletters, co-registration paths, and company design materials for the publishing side.
 
 
     </section>
