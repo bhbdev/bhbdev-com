@@ -11,7 +11,7 @@ ShowBreadCrumbs: true
 
 ### An "AI-powered" Content Editor
 
-{{< figure class="screenshot" src="../../images/mred-1.png" caption="" attr="" attrlink="" >}} 
+{{< figure class="screenshot" src="/images/mred-1.png" caption="" attr="" attrlink="" >}} 
 
 This was an experimental idea I came up with while working with editors that were creating evergreen content.
 Editors would use ChatGPT to generate content and copy/paste to a JSON file to be handed over to developers to import. This proved to be a clunky process, and ripe with potential issues due to the custom importing scripts and editors lack of knowledge about JSON syntax.
@@ -24,4 +24,4 @@ While I unfortunately did not get a chance to complete this experiment after les
 
 Mr. Ed was built with Vue 3, TypeScript, Bootstrap, @ai-sdk/openai
 
-<video src="../../images/mred-v1.mov" class="video" controls playbackRate="1.5">
+<video src="/images/mred-v1.mov" class="video" controls playbackRate="1.5">

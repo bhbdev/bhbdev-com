@@ -9,8 +9,7 @@ disableAnchoredHeadings: true
 ---
 
 
-{{< figure class="about-profile" src="../images/about.png" caption="" attr="" attrlink="" >}} 
-
+{{< figure class="about-profile" src="/images/bhb1.png" caption="" attr="" attrlink="" >}} 
 
 ## A long, long time ago... 
 

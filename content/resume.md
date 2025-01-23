@@ -111,7 +111,9 @@ Asana, Jira, Slack, GSuite, Workday
 
   - Designed, developed, and maintained ArcaMax's website and newsletters. Contributed to automation scripts, bulk email job administration, and database management. Migrated source code from Subversion to AWS CodeCommit and then to GitHub. Established container-based development environments using Docker.
 
-  - Developed bookdaily.com (now defunct), a book sample website featuring author tools and newsletters. Integrated a custom AngularJS Help Desk system for customer management.
+  - Developed bookdaily.com, a book sample website featuring author tools and newsletters. Integrated a custom AngularJS Help Desk system for customer management.
+  
+  - Worked with company in 2003-2005 as Web Designer prior to it splitting from online e-commerce into a publishing company. Built the first website, newsletters and co-registration paths, and company design materials.
 
 
     </section>
