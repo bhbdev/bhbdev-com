@@ -120,10 +120,12 @@
     
 }
 
+
 .about-profile img {
     float: right;
     width: 33.3%;
     height: auto;
+    margin: 0 0 1rem 1rem;
     border: 2px solid #fff;
     border-radius: 50%;
     filter: drop-shadow(-.25rem 1rem .5rem rgb(57, 57, 57));

@@ -11,6 +11,8 @@ disableAnchoredHeadings: true
 
 {{< figure class="about-profile" src="/images/bhb1.png" caption="" attr="" attrlink="" >}} 
 
+<article class="about">
+
 ## A long, long time ago... 
 
 In a <strike>galaxy</strike> city near the East coast,
@@ -27,16 +29,16 @@ Decipher(ing) pixel perfect designs, Apples, Mac, Linux - oh my!
 Now go be a Web Tek, programming full-stack.
 Like a senior we begin rolling code back-to-back.
 
-The past beckons, we are back with fresh knowledge and spice.
+The past beckons, we are back with knowledge and spice.
 We build, explore, grow our skills with might.
 
-Hey, it's a girl! you're a dad, whoa out of mind.
-Learn the hard stuff, keep truckin, theres mountains to climb.
+Hey, it's a girl! You're a dad, whoa, out of mind.
+Learn the hard stuff, keep truckin, there's mountains to climb.
 
 New faces, same places, another child, it's a boy!
-With one of each, our life is filled with joy.
+With one of each, now our life is filled with joy.
 
-Change is on the horizon, we accept our destined fate.
+Change is on the horizon, our time here has been great.
 Meet new teams + learn more things, the journey continues... wait?
 
 The future is here, in this point in time.
@@ -45,3 +47,4 @@ The dream is still alive, dude... it's 2025?!
 So here's to the journey, we've sure come along way.
 I've enjoyed every moment, now that's all I have to say.
 
+</article>
