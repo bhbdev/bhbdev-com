@@ -74,7 +74,8 @@ Asana, Jira, GSuite, Teams
         <li>Managed team of remote developers globally, providing technical mentorship, code reviews, and leading development operations.</li>
         <li>Developed internal microservices, including an AI chat frontend, gRPC-based rules engine, and a multi-tenant content management system with automated feed processing, event tracking, and website generation tools.</li>
         <li>Developed <a href="https://www.triviastreaks.com" target="_new">triviastreaks.com</a> full stack, including acquisition tools, and content automation. Increased customer subscriptions, traffic and supported marketing efforts.</li>
-        <li>Promoted to Director of Engineering from Lead Engineer in Apr 2022.</li>
+        <li>Designed and coded website and newsletter framework for niche content audiences, supporting additional traffic and subscription marketing efforts.</li>
+        <li>Worked seamlessly with multiple engineering teams, and external partners and integrations.</li>
       </ul>
     </section>
   </article>
