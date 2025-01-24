@@ -39,9 +39,6 @@ With one of each, our life is filled with joy.
 Change is on the horizon, we accept our destined fate.
 Meet new teams + learn more things, the journey continues... wait?
 
-But then saying goodbye to friends and others.
-We wish them well, our peers, our brothers.
-
 The future is here, in this point in time.
 The dream is still alive, dude... it's 2025?!
 
