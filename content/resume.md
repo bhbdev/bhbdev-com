@@ -36,19 +36,19 @@ disableAnchoredHeadings: true
 <div class="res-skills">
 
 - **Languages** 
-JavaScript, HTML, CSS, C++, Go, Python, SQL, Shell-Scripting
+JavaScript, HTML, CSS, C++, Go, Python, PHP, SQL, Shell-Scripting
 - **Data Storage** 
-Postgres, MySQL, Redis, MongoDB
+Postgres, MySQL, Redis, NoSQL
 - **Frameworks**
-Google V8, Node.js, Angular, Vue, React, Flask, Hugo, Htmgo, HTMX*
-- **Dev Architecture** 
-OpenAPI, XML/Soap, REST, gRPC, Temporal, Protobuf
+Node.js, Angular, Vue, React, Flask, Hypermedia
+- **Architecture** 
+REST, JSON, XML/Soap, gRPC, Protobuf, OpenAPI, Temporal
 - **Software/DevOps** 
-Apache, NGINX, Docker, Git, SSH, AWS (EC2, ECR, S3, Cloudfront, Route53)
+Apache, Docker, Git, AWS (EC2, ECR, S3, Cloudfront, Route53)
 - **Operating Systems** 
 MacOS, Linux (Ubuntu, Debian, CentOS)
 - **Project Management** 
-Asana, Jira, Slack, GSuite, Workday
+Asana, Jira, GSuite, Teams
 
 
 </div>
@@ -63,22 +63,19 @@ Asana, Jira, Slack, GSuite, Workday
     </header>
     <aside class="res-meta">
       <ul>
-          <li class="tenure">Apr 2022 - Jan 2025</li>
-          <li class="role">Director of Engineering</li>
-          <li class="website"><a href="https://www.zetaglobal.com">zetaglobal.com</a></li>
-          <li class="location">Remote - Norfolk, VA</li>
+        <li class="tenure">Apr 2022 - Jan 2025</li>
+        <li class="role">Director of Engineering</li>
+        <li class="website"><a href="https://www.zetaglobal.com">zetaglobal.com</a></li>
+        <li class="location">Remote - Norfolk, VA</li>
       </ul>
     </aside>
     <section class="res-highlights">
-
--  Managed a team of remote developers globally, providing technical mentorship, code reviews, and overseeing development operations.
-
-- Prototyped and co-developed internal microservices, including an AI chat with generative capabilities, a gRPC-based rules engine, a multi-tenant content management system, automated feed processing, event tracking, and user acquisition tools.
-
-- Developed [triviastreaks.com](https://www.triviastreaks.com) full stack, including acquisition tools, and content automation. Managed processes for content creation, campaign scheduling, and continuous deployment. Increased customer subscriptions and web traffic (100k+ pageviews) within a month of launch. 
-
-- Promoted to Director of Engineering from Lead Engineer in Apr 2022.
-
+      <ul>
+        <li>Managed team of remote developers globally, providing technical mentorship, code reviews, and leading development operations.</li>
+        <li>Developed internal microservices, including an AI chat frontend, gRPC-based rules engine, and a multi-tenant content management system with automated feed processing, event tracking, and website generation tools.</li>
+        <li>Developed <a href="https://www.triviastreaks.com" target="_new">triviastreaks.com</a> full stack, including acquisition tools, and content automation. Increased customer subscriptions, traffic and supported marketing efforts.</li>
+        <li>Promoted to Director of Engineering from Lead Engineer in Apr 2022.</li>
+      </ul>
     </section>
   </article>
 
@@ -88,29 +85,20 @@ Asana, Jira, Slack, GSuite, Workday
     </header>
     <aside class="res-meta">
       <ul>
-          <li class="tenure">Sep 2009 - Apr 2022</li>
-          <li class="role">Lead Engineer</li>
-          <li class="website"><a href="https://www.arcamax.com">arcamax.com</a></li>
-          <li class="location">Newport News, VA</li>
+        <li class="tenure">Sep 2009 - Apr 2022</li>
+        <li class="role">Lead Engineer</li>
+        <li class="website"><a href="https://www.arcamax.com">arcamax.com</a></li>
+        <li class="location">Newport News, VA</li>
       </ul>
     </aside>
     <section class="res-highlights">
-
-  - Designed, developed, and maintained ArcaMax's website and 400+ newsletters. <small>*(2M+ subscribers, 6M+ pageviews per month)*</small>
-  
-  - Co-developed a custom front-end framework based on C++ and embedded Google V8 JavaScript engine, featuring template block inheritance and server-side scripting.
-
-  - Contributed to automation, bulk email campaigns, all company developments. Managed source code migrations from Subversion, AWS CodeCommit, onto GitHub. Established container-based environments using Docker and ECR for local development.
-
-  - Developed COBRA ([getcobra.io](https://getcobra.io)), a self-service platform for co-branded newsletter marketing that provides lead acquisition tools, campaign management, and reporting.
-  
-  - Created an iOS app "The Funnies" integrated with companies comic publications.
-
-  - Developed a book sample website featuring author tools and newsletters (bookdaily.com). Integrated a Help Desk system for customer management built in AngularJS.
-  
-  - Worked for company in 2003-2005 as Web Designer in both the online e-commerce and publishing company divisions. Built the first website, newsletters, co-registration paths, and company design materials for the publishing side.
-
-
+      <ul>
+        <li>Designed, developed, and maintained ArcaMax's website and 400+ newsletters.</li>
+        <li>Co-developed internal front-end framework based on C++ and embedded Google V8 JavaScript engine.</li>
+        <li>Contributed to automation, bulk email campaigns, all company developments. Managed source code migrations, and established container-based environments for local development within companies codebase.</li>
+        <li>Developed COBRA <a href="https://getcobra.io" target="_new">getcobra.io</a>, a self-service platform for co-branded newsletter marketing that provides lead acquisition tools, campaign management, and reporting.</li>
+        <li>Worked for company in 2003-2005 as Web Designer in early startup days. Designed the first website, newsletters, co-registration paths, and company design materials for the publishing division.</li>
+      </ul>
     </section>
   </article>
 
@@ -120,23 +108,19 @@ Asana, Jira, Slack, GSuite, Workday
     </header>
     <aside class="res-meta">
       <ul>
-      <li class="tenure">Jan 2006 - Sep 2009</li>
-      <li class="role">Lead Web Developer</li>
-      <li class="website"><a href="https://www.webteks.com">webteks.com</a></li>
-      <li class="location">Chesapeake, VA</li>
+        <li class="tenure">Jan 2006 - Sep 2009</li>
+        <li class="role">Lead Web Developer</li>
+        <li class="website"><a href="https://www.webteks.com">webteks.com</a></li>
+        <li class="location">Chesapeake, VA</li>
       </ul>
     </aside>
     <section class="res-highlights">
-
-  - Developed and maintained websites and applications primarily in LAMP environments for clients including DollarTree Direct, Towne Bank, and Beach Ford, and over 100 more.
-
-  - Mentored junior developers, wrote design documents, and created time estimates.
-
-  - Provided technical expertise in web design practices and standards.
-
-  - Designed a Java Swing UI for software managing a robotic CD burner and printer for the US Navy’s Second Fleet, enabling secure file transfers.
-
-
+      <ul>
+        <li>Developed and maintained websites and applications primarily in <abbr title="Linux, Apache, MySQL and PHP">LAMP</abbr> environments for clients including DollarTree Direct, Towne Bank, and Beach Ford, and over 100 more.</li>
+        <li>Provided technical expertise in web design practices and standards. Managed project specifications and documentation.</li>
+        <li>Contributed to PHP framework upgrades, server and source control management.</li>
+        <li>Designed a Java Swing UI for software managing a robotic CD burner and printer for the US Navy’s Second Fleet, enabling secure file transfers.</li>
+      </ul>
     </section>
   </article>
 
@@ -146,21 +130,18 @@ Asana, Jira, Slack, GSuite, Workday
     </header>
     <aside class="res-meta">
       <ul>
-      <li class="tenure">Jan 2005 - Dec 2006</li>
-      <li class="role">Web Developer/Designer</li>
-      <li class="website"><a href="https://www.decipher.com">decipher.com</a></li>
-      <li class="location">Norfolk, VA</li>
+        <li class="tenure">Jan 2005 - Dec 2006</li>
+        <li class="role">Web Developer/Designer</li>
+        <li class="website"><a href="https://www.decipher.com">decipher.com</a></li>
+        <li class="location">Norfolk, VA</li>
       </ul>
     </aside>
     <section class="res-highlights">
-
-  - Implemented various pixel-perfect web sites and designs with HTML,CSS,Javascript, Web Objects.
-
-  - Developed thankyougeorge.com; a tribute site to George Lucas.
-
-  - Prototyped a secure application using Java + Swing UI for a project in coupon industry.
-
-
+      <ul>
+        <li>Implemented various pixel-perfect web sites and designs in HTML, CSS and JavaScript.</li>
+        <li>Developed <abbr title="Star Wars fans!">thankyougeorge.com</abbr>, a tribute site to George Lucas.</li>
+        <li>Prototyped a secure application using Java + Swing UI for a project in coupon industry.</li>
+      </ul>
     </section>
   </article>
 
