@@ -1,7 +1,7 @@
 author: Beau Bishop
 baseURL: https://bhbdev.com/
 languageCode: en-us
-title: Beau Bishop
+title: bhbdev
 copyright: "© [Beau Bishop](https://github.com/bhbdev)"
 
 #uglyURLs: true
@@ -57,8 +57,8 @@ params:
   profileMode:
     enabled: true
     title: "Beau Bishop" # optional default will be site title
-    subtitle: "Professional Web Developer and more!" # optional
-    imageUrl: "images/bhb2.png" # optional
+    subtitle: "< type='web developer' />" # optional
+    imageUrl: "images/ch-beard.png" # optional
     imageTitle: "hey, wyd?" # optional
     imageWidth: 240 # custom size
     imageHeight: 240 # custom size

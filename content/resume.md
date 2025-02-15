@@ -8,12 +8,14 @@ hideTitle: true
 disableAnchoredHeadings: true
 ---
 
+<button class="print" onclick="window.print()" title="Print">
+ <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="24" height="24"><path d="M128 0C92.7 0 64 28.7 64 64l0 96 64 0 0-96 226.7 0L384 93.3l0 66.7 64 0 0-66.7c0-17-6.7-33.3-18.7-45.3L400 18.7C388 6.7 371.7 0 354.7 0L128 0zM384 352l0 32 0 64-256 0 0-64 0-16 0-16 256 0zm64 32l32 0c17.7 0 32-14.3 32-32l0-96c0-35.3-28.7-64-64-64L64 192c-35.3 0-64 28.7-64 64l0 96c0 17.7 14.3 32 32 32l32 0 0 64c0 35.3 28.7 64 64 64l256 0c35.3 0 64-28.7 64-64l0-64zM432 248a24 24 0 1 1 0 48 24 24 0 1 1 0-48z"/></svg>
+</button>
+
+<div class="resume">
+
 <section class="res-header">
 <h1>Beau H. Bishop</h1>
-
-<button class="print" onclick="window.print()" title="Print">
- <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="24" height="24"><!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--><path d="M128 0C92.7 0 64 28.7 64 64l0 96 64 0 0-96 226.7 0L384 93.3l0 66.7 64 0 0-66.7c0-17-6.7-33.3-18.7-45.3L400 18.7C388 6.7 371.7 0 354.7 0L128 0zM384 352l0 32 0 64-256 0 0-64 0-16 0-16 256 0zm64 32l32 0c17.7 0 32-14.3 32-32l0-96c0-35.3-28.7-64-64-64L64 192c-35.3 0-64 28.7-64 64l0 96c0 17.7 14.3 32 32 32l32 0 0 64c0 35.3 28.7 64 64 64l256 0c35.3 0 64-28.7 64-64l0-64zM432 248a24 24 0 1 1 0 48 24 24 0 1 1 0-48z"/></svg>
-</button>
 
 </section>
 
@@ -21,7 +23,7 @@ disableAnchoredHeadings: true
 
 <div class="res-meta">
 
-{{< figure class="headshot-mini" src="../images/headshot.jpg" caption="" attr="" attrlink="" >}} 
+{{< figure class="headshot-mini" src="../images/bhb2.png" caption="" attr="" attrlink="" >}} 
 
 - [bhbdev@gmail.com](mailto:bhbdev@gmail.com)
 - [757-589-2571](tel:17575892571)
@@ -36,17 +38,17 @@ disableAnchoredHeadings: true
 <div class="res-skills">
 
 - **Languages** 
-JavaScript, HTML, CSS, C++, Go, Python, PHP, SQL, Shell-Scripting
+JavaScript, HTML, CSS, C++, Go, Python, PHP, Shell-Scripting
 - **Data Storage** 
 Postgres, MySQL, Redis, NoSQL
 - **Frameworks**
-Node.js, Angular, Vue, React, Flask, Hypermedia
+Node.js, Angular, Vue, React, Flask, HTMX
 - **Architecture** 
 REST, JSON, XML/Soap, gRPC, Protobuf, OpenAPI, Temporal
 - **Software/DevOps** 
 Apache, Docker, Git, AWS (EC2, ECR, S3, Cloudfront, Route53)
 - **Operating Systems** 
-MacOS, Linux (Ubuntu, Debian, CentOS)
+MacOS, Linux (Ubuntu, Debian)
 - **Project Management** 
 Asana, Jira, GSuite, Teams
 
@@ -72,10 +74,8 @@ Asana, Jira, GSuite, Teams
     <section class="res-highlights">
       <ul>
         <li>Managed team of remote developers globally, providing technical mentorship, code reviews, and leading development operations.</li>
-        <li>Developed internal microservices, including an AI chat frontend, gRPC-based rules engine, and a multi-tenant content management system with automated feed processing, event tracking, and website generation tools.</li>
-        <li>Developed <a href="https://www.triviastreaks.com" target="_new">triviastreaks.com</a> full stack, including acquisition tools, and content automation. Increased customer subscriptions, traffic and supported marketing efforts.</li>
-        <li>Designed and coded website and newsletter framework for niche content audiences, supporting additional traffic and subscription marketing efforts.</li>
-        <li>Worked seamlessly with multiple engineering teams, and external partners and integrations.</li>
+        <li>Created internal services and prototypes, including an AI chat frontend, rules engine, and a multi-tenant content management system with automated feed processing, static site generation, and marketing tools.</li>
+        <li>Developed framework for creating niche content sites and email newsletters to build vertical audiences while increasing subscriptions and supporting lead-generation efforts.</li>
       </ul>
     </section>
   </article>
@@ -94,11 +94,12 @@ Asana, Jira, GSuite, Teams
     </aside>
     <section class="res-highlights">
       <ul>
-        <li>Designed, developed, and maintained ArcaMax's website and 400+ newsletters.</li>
-        <li>Co-developed internal front-end framework based on C++ and embedded Google V8 JavaScript engine.</li>
-        <li>Contributed to automation, bulk email campaigns, all company developments. Managed source code migrations, and established container-based environments for local development within companies codebase.</li>
-        <li>Developed COBRA <a href="https://getcobra.io" target="_new">getcobra.io</a>, a self-service platform for co-branded newsletter marketing that provides lead acquisition tools, campaign management, and reporting.</li>
-        <li>Worked for company in 2003-2005 as Web Designer in early startup days. Designed the first website, newsletters, co-registration paths, and company design materials for the publishing division.</li>
+        <li>Developed on full stack of company applications, web sites and 400+ newsletters.</li>
+        <li>Co-developed custom template framework in C++ and embedded Google V8 JavaScript.</li>
+        <li>Supported systems automation, source migrations and deployments. Improved developer experience with container-based environments for local development.</li>
+        <li>Increased lead generation efforts, customer subscriptions and website traffic by integrating several social media and external API interfaces.</li>
+        <li>Created a self-service platform for co-branded newsletter marketing that provides lead acquisition tools, campaign management, and reporting. <a href="https://getcobra.io" target="_new">getcobra.io</a></li>
+        <!-- <li>Worked for company in 2003-2005 as Web Designer in early startup days. Designed the first website, newsletters, co-registration paths, and company design materials for the publishing division.</li> -->
       </ul>
     </section>
   </article>
@@ -138,11 +139,10 @@ Asana, Jira, GSuite, Teams
       </ul>
     </aside>
     <section class="res-highlights">
-      <ul>
+      <!-- <ul>
         <li>Implemented various pixel-perfect web sites and designs in HTML, CSS and JavaScript.</li>
-        <li>Developed <abbr title="Star Wars fans!">thankyougeorge.com</abbr>, a tribute site to George Lucas.</li>
         <li>Prototyped a secure application using Java + Swing UI for a project in coupon industry.</li>
-      </ul>
+      </ul> -->
     </section>
   </article>
 
@@ -151,3 +151,5 @@ Asana, Jira, GSuite, Teams
 ### Education 
 
 ECPI College of Technology, AAS IT/Web Development 2002-2003
+
+</div>

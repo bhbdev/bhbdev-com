@@ -2,6 +2,7 @@
 title = 'Hello World'
 date = 2025-01-14T16:17:06-05:00
 draft = false
+hide = true
 +++
 
 👋 Welcome to my humble place on the web.

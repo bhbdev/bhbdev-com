@@ -33,7 +33,7 @@ The past beckons, we are back with knowledge and spice.
 We build, explore, grow our skills with might.
 
 Hey, it's a girl! You're a dad, whoa, out of mind.
-Learn the hard stuff, keep truckin, there's mountains to climb.
+Learn some hard stuff, keep truckin, there's mountains to climb.
 
 New faces, same places, another child, it's a boy!
 With one of each, now our life is filled with joy.
