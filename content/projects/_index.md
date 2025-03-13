@@ -12,9 +12,11 @@ hideMeta: true
 <div class="flex">
 {{< figure class="cat-typing" src="/images/cattyping.gif" caption="" attr="" attrlink="" >}} 
 
-I have designed, built and contributed on many, many, *many* websites and applications. 
+I have designed, built and contributed on many, many, *many* websites and applications.
 
 </div>
+
+<b>Web Sites</b>
 
 <dl style="list-style:none">
 
@@ -37,11 +39,14 @@ News Publishing site with over 400+ features from syndicated sources providing e
 <span class="cite-lang">[V8 JS API, Vue, Bootstrap, S3, Cloudfront]</span>
 </dd>
 
+<dt></dt>
+<dd><small>and more... these are a few recent ones still active today.</small></dd>
 
 </dl>
 
 ---
 
+<b>Projects</b>
 <dl style="list-style:none">
 
 

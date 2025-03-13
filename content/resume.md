@@ -46,7 +46,7 @@ Node.js, Angular, Vue, React, Flask, HTMX
 - **Architecture** 
 REST, JSON, XML/Soap, gRPC, Protobuf, OpenAPI, Temporal
 - **Software/DevOps** 
-Apache, Docker, Git, AWS (EC2, ECR, S3, Cloudfront, Route53)
+Apache, Docker, Git, AWS (EC2, ECR, S3, Cloudfront)
 - **Operating Systems** 
 MacOS, Linux (Ubuntu, Debian)
 - **Project Management** 
@@ -73,9 +73,9 @@ Asana, Jira, GSuite, Teams
     </aside>
     <section class="res-highlights">
       <ul>
-        <li>Managed team of remote developers globally, providing technical mentorship, code reviews, and leading development operations.</li>
-        <li>Created internal services and prototypes, including an AI chat frontend, rules engine, and a multi-tenant content management system with automated feed processing, static site generation, and marketing tools.</li>
-        <li>Developed framework for creating niche content sites and email newsletters to build vertical audiences while increasing subscriptions and supporting lead-generation efforts.</li>
+        <li>Managed team of remote developers, running sprints, code reviews, and leading development operations.</li>
+        <li>Integrated legacy data systems, developed a rules engine microservice and a multi-tenant content engine providing automated feed processing, static site generation, and marketing tools.</li>
+        <li>Developed fast web framework for spinning up niche content websites and email newsletters, allowing the company to increase subscriptions and revenue by building vertical audiences.</li>
       </ul>
     </section>
   </article>
@@ -95,11 +95,11 @@ Asana, Jira, GSuite, Teams
     <section class="res-highlights">
       <ul>
         <li>Developed on full stack of company applications, web sites and 400+ newsletters.</li>
+        <li>Grew website traffic and subscriptions year over year supporting over 6M pageviews per month and 2M+ email subscribers.</li>
         <li>Co-developed custom template framework in C++ and embedded Google V8 JavaScript.</li>
         <li>Supported systems automation, source migrations and deployments. Improved developer experience with container-based environments for local development.</li>
         <li>Increased lead generation efforts, customer subscriptions and website traffic by integrating several social media and external API interfaces.</li>
-        <li>Created a self-service platform for co-branded newsletter marketing that provides lead acquisition tools, campaign management, and reporting. <a href="https://getcobra.io" target="_new">getcobra.io</a></li>
-        <!-- <li>Worked for company in 2003-2005 as Web Designer in early startup days. Designed the first website, newsletters, co-registration paths, and company design materials for the publishing division.</li> -->
+        <li>Created a self-service revenue share platform for co-branded newsletter marketing that provides lead acquisition tools, campaign management, and reporting. <a href="https://getcobra.io" target="_new">getcobra.io</a></li>
       </ul>
     </section>
   </article>
@@ -118,8 +118,8 @@ Asana, Jira, GSuite, Teams
     </aside>
     <section class="res-highlights">
       <ul>
-        <li>Developed and maintained websites and applications primarily in <abbr title="Linux, Apache, MySQL and PHP">LAMP</abbr> environments for clients including DollarTree Direct, Towne Bank, and Beach Ford, and over 100 more.</li>
-        <li>Provided technical expertise in web design practices and standards. Managed project specifications and documentation.</li>
+        <li>Created several websites and applications for clients including DollarTree Direct, Towne Bank, LifeNet and over 100 more.</li>
+        <li>Mentored junior developers, managed project specs, wrote design docs and estimates.</li>
         <li>Contributed to PHP framework upgrades, server and source control management.</li>
         <li>Designed a Java Swing UI for software managing a robotic CD burner and printer for the US Navy’s Second Fleet, enabling secure file transfers.</li>
       </ul>

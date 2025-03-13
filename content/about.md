@@ -23,7 +23,7 @@ Self-taught, it just clicks. Met a girl--go to school, play the game.
 Dive right into e-commerce/ZAP!
 ArcaMax discovered, put on your professional cap.
 
-But, desire for experience seeks networking that guy...
+Desire for experience seeks networking that guy...
 Decipher(ing) pixel perfect designs, Apples, Mac, Linux - oh my!
 
 Now go be a Web Tek, programming full-stack.
@@ -38,13 +38,13 @@ Learn some hard stuff, keep truckin, there's mountains to climb.
 New faces, same places, another child, it's a boy!
 With one of each, now our life is filled with joy.
 
-Change is on the horizon, our time here has been great.
+Change is on the horizon, our time spent has been great.
 Meet new teams + learn more things, the journey continues... wait?
 
 The future is here, in this point in time.
-The dream is still alive, dude... it's 2025?!
+The dream is still alive, bro... is it 2025?!
 
-So here's to the journey, we've sure come along way.
+So here's to the journey, we've come along way.
 I've enjoyed every moment, now that's all I have to say.
 
 </article>
