@@ -57,7 +57,8 @@ params:
   profileMode:
     enabled: true
     title: "Beau Bishop" # optional default will be site title
-    subtitle: "< type='web developer' />" # optional
+    #subtitle: "< type='web developer' />" # optional
+    subtitle: "Senior Software Developer, Director, Dad" # optional
     imageUrl: "images/ch-beard.png" # optional
     imageTitle: "hey, wyd?" # optional
     imageWidth: 240 # custom size

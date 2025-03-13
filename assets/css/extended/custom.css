@@ -20,7 +20,7 @@ main a, li a {
     &:hover {
         cursor: none;
         filter: grayscale(0) drop-shadow(0 0 .35rem rgb(202, 202, 202));
-        transform: scale(1.05) translate(.1rem , -.25rem);
+        xtransform: scale(1.05) translate(.1rem , -.25rem);
     }
 }
 .dark .profile img {
@@ -28,7 +28,7 @@ main a, li a {
     &:hover {
         opacity: .75;
         filter: grayscale(1) drop-shadow(0 0 .35rem rgb(102, 102, 102));
-        transform: scale(1.05) translate(.1rem , -.25rem);
+        xtransform: scale(1.05) translate(.1rem , -.25rem);
     }
 }
 /* bounce animation */

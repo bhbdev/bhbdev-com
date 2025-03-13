@@ -27,7 +27,6 @@ disableAnchoredHeadings: true
 
 - [bhbdev@gmail.com](mailto:bhbdev@gmail.com)
 - [757-589-2571](tel:17575892571)
-- [bhbdev.com](https://bhbdev.com)
 - *Norfolk, VA*
 
 </div>
@@ -38,19 +37,19 @@ disableAnchoredHeadings: true
 <div class="res-skills">
 
 - **Languages** 
-JavaScript, HTML, CSS, C++, Go, Python, PHP, Shell-Scripting
-- **Data Storage** 
+JavaScript (ES6+), HTML, CSS, Go, C++, Python, SQL
+- **Frontend**
+Angular, React, Vue, HTMX, Bootstrap, Tailwind
+- **Backend** 
+Node.js, Gin, Flask, Express, REST, gRPC
+- **Databases** 
 Postgres, MySQL, Redis, NoSQL
-- **Frameworks**
-Node.js, Angular, Vue, React, Flask, HTMX
+- **DevOps & Cloud** 
+Docker, AWS (EC2, S3, CloudFront, Route53), CI/CD, Git
 - **Architecture** 
-REST, JSON, XML/Soap, gRPC, Protobuf, OpenAPI, Temporal
-- **Software/DevOps** 
-Apache, Docker, Git, AWS (EC2, ECR, S3, Cloudfront)
-- **Operating Systems** 
-MacOS, Linux (Ubuntu, Debian)
+Microservices, API Design, Static Site Generation, Caching
 - **Project Management** 
-Asana, Jira, GSuite, Teams
+Asana, Jira, GSuite, Workday, Slack, Teams
 
 
 </div>
@@ -73,9 +72,10 @@ Asana, Jira, GSuite, Teams
     </aside>
     <section class="res-highlights">
       <ul>
-        <li>Managed team of remote developers, running sprints, code reviews, and leading development operations.</li>
-        <li>Integrated legacy data systems, developed a rules engine microservice and a multi-tenant content engine providing automated feed processing, static site generation, and marketing tools.</li>
-        <li>Developed fast web framework for spinning up niche content websites and email newsletters, allowing the company to increase subscriptions and revenue by building vertical audiences.</li>
+        <li>Leading remote team agile standups, task assignments, code reviews and deployments for ArcaMax systems.</li>
+        <li>Developed internal services and prototypes, including a multi-tenant CMS with automated feed processing.</li>
+        <li>Designed and implemented a high-traffic website and newsletter framework supporting subscription-based content.</li>
+        <li>Built tools to streamline workflows, improve deployment automation, and integrate third-party services</li>
       </ul>
     </section>
   </article>
@@ -94,12 +94,11 @@ Asana, Jira, GSuite, Teams
     </aside>
     <section class="res-highlights">
       <ul>
-        <li>Developed on full stack of company applications, web sites and 400+ newsletters.</li>
-        <li>Grew website traffic and subscriptions year over year supporting over 6M pageviews per month and 2M+ email subscribers.</li>
-        <li>Co-developed custom template framework in C++ and embedded Google V8 JavaScript.</li>
-        <li>Supported systems automation, source migrations and deployments. Improved developer experience with container-based environments for local development.</li>
-        <li>Increased lead generation efforts, customer subscriptions and website traffic by integrating several social media and external API interfaces.</li>
-        <li>Created a self-service revenue share platform for co-branded newsletter marketing that provides lead acquisition tools, campaign management, and reporting. <a href="https://getcobra.io" target="_new">getcobra.io</a></li>
+        <li>Engineered and maintained ArcaMax's content platform serving millions of users.</li>
+        <li>Built an internal front-end framework using C++ with an embedded V8 JavaScript engine for high-performance rendering.</li>
+        <li>Developed a self-service marketing platform enabling automated lead generation and campaign management.</li>
+        <li>Grew website traffic and subscriptions year over year serving 6M+ pageviews per month and 2M+ email subscribers.</li>
+        <li>Migrated legacy systems to container-based infrastructure, improving scalability and development efficiency.</li>
       </ul>
     </section>
   </article>
@@ -118,10 +117,9 @@ Asana, Jira, GSuite, Teams
     </aside>
     <section class="res-highlights">
       <ul>
-        <li>Created several websites and applications for clients including DollarTree Direct, Towne Bank, LifeNet and over 100 more.</li>
-        <li>Mentored junior developers, managed project specs, wrote design docs and estimates.</li>
-        <li>Contributed to PHP framework upgrades, server and source control management.</li>
-        <li>Designed a Java Swing UI for software managing a robotic CD burner and printer for the US Navy’s Second Fleet, enabling secure file transfers.</li>
+        <li>Developed web sites and applications for clients including DollarTree Direct and Towne Bank.</li>
+        <li>Designed a Java-based UI for a secure file transfer system for the U.S. Navy's Second Fleet.</li>
+        <li>Built and maintained LAMP-based platforms, optimizing site performance and security.</li>
       </ul>
     </section>
   </article>
